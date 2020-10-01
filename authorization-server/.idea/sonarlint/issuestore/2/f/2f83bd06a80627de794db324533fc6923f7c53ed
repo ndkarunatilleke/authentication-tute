@@ -1,0 +1,17 @@
+
+
+java:S1128"_Remove this unused import 'org.springframework.boot.autoconfigure.security.SecurityProperties'.(š©˜àÿÿÿÿÿ8±éüıÅ.
+J
+java:S1185 "(Remove this method to simply inherit it.(¼êÉ‡ıÿÿÿÿ8·ÌíıÅ.
+E
+java:S1185%"(Remove this method to simply inherit it.(ú´­÷8·ÌíıÅ.
+I
+java:S1602",Remove useless curly braces around statement(µ±æŠ8·ÌíıÅ.
+J
+java:S11854"(Remove this method to simply inherit it.(“£Úşıÿÿÿÿ8·ÌíıÅ.
+E
+java:S1185*"(Remove this method to simply inherit it.( Ñã8·ÌíıÅ.
+J
+java:S1185/"(Remove this method to simply inherit it.(àœ¤şÿÿÿÿÿ8·ÌíıÅ.
+J
+java:S11859"(Remove this method to simply inherit it.(ï¬Çõùÿÿÿÿ8·ÌíıÅ.
